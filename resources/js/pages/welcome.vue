@@ -18,7 +18,7 @@
 
     <div class="text-center">
       <div class="title mb-4">
-        {{ title }}
+        Calendar Events App
       </div>
     </div>
   </div>
@@ -52,6 +52,6 @@ export default {
 }
 
 .title {
-  font-size: 85px;
+  font-size: 50px;
 }
 </style>
