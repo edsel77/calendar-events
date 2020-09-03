@@ -1,5 +1,5 @@
 # calendar-events
-Coding exam challenge
+Coding challenge
 
 ## Installation
 
