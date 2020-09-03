@@ -1,6 +1,6 @@
 {
-    "name": "cretueusebiu/laravel-vue-spa",
-    "description": "A Laravel-Vue SPA starter project template.",
+    "name": "edsel77/calendar-events",
+    "description": "Calendar events coding exam.",
     "keywords": ["spa", "laravel", "vue"],
     "license": "MIT",
     "type": "project",
