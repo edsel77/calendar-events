@@ -4,8 +4,9 @@ Coding exam challenge
 ## Installation
 
 - `git clone https://github.com/edsel77/calendar-events.git`
-- Edit `.env` and set your database connection details
-- Run `php artisan key:generate` and `php artisan jwt:secret`
+- edit `.env` and set your database connection details
+- run `composer install`
+- run `php artisan key:generate` and `php artisan jwt:secret`
 - `php artisan migrate`
 - `npm install`
 
