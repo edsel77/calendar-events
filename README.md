@@ -1,5 +1,5 @@
 # calendar-events
-Coding challenge
+calendar app
 
 ## Installation
 
